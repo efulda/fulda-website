@@ -18,7 +18,7 @@ about:
       text: Github
       href: https://github.com
 ---
-I am a PhD student in the NIH Oxford-Cambridge Scholars Program.
+I am a current PhD student in the NIH Oxford-Cambridge Scholars Program.
 
 ## Education
 University of Oxford | Oxford, UK\
