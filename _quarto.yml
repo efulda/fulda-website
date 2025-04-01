@@ -12,7 +12,7 @@ website:
       
 format:
   html:
-    theme: minty
+    theme: morph
     css: style.css
     toc: true
     metadata:
