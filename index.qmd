@@ -21,8 +21,8 @@ about:
 I am a PhD student in the NIH Oxford-Cambridge Scholars Program.
 
 ## Education
-University of Oxford | Oxford, UK
+University of Oxford | Oxford, UK\
 MSc in Global Health Science and Epidemiology | 2023
 
-Harvard College | Cambridge, MA, USA
+Harvard College | Cambridge, MA, USA\
 AB in Integrative Biology | 2019
