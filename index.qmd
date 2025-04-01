@@ -1,0 +1,28 @@
+---
+title: "Evelynne Fulda"
+format:
+  html:
+    page-layout: full
+    toc: false
+about:
+  template: broadside
+  image: assets/temp.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:evelynne.fulda@nih.gov
+    - icon: linkedin
+      text: LinkedIn
+      href: http://linkedin.com/in/evelynnefulda/
+    - icon: github
+      text: Github
+      href: https://github.com
+---
+I am a PhD student in the NIH Oxford-Cambridge Scholars Program.
+
+## Education
+University of Oxford | Oxford, UK
+MSc in Global Health Science and Epidemiology | 2023
+
+Harvard College | Cambridge, MA, USA
+AB in Integrative Biology | 2019
