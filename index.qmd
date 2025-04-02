@@ -1,6 +1,6 @@
 ---
 title: "About me"
-image: assets/temp.jpg
+image: assets/pic_me.jpeg
 format:
   html:
     page-layout: full
