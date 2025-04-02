@@ -1,0 +1,1 @@
+Sitemap: https://efulda.github.io/fulda-website/sitemap.xml

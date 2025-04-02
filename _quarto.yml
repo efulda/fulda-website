@@ -7,12 +7,12 @@ website:
     left: 
       - href: index.qmd
         text: Home
-      - href: cv.qmd
-        text: CV
+      - href: publications.qmd
+        text: Publications
       
 format:
   html:
-    theme: morph
+    theme: yeti
     css: style.css
     toc: true
     metadata:

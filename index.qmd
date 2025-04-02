@@ -1,12 +1,14 @@
 ---
-title: "Evelynne Fulda"
+title: "About me"
+image: assets/temp.jpg
 format:
   html:
     page-layout: full
     toc: false
 about:
-  template: broadside
-  image: assets/temp.jpg
+  template: trestles
+  image-shape: round
+  image-width: 10em
   links:
     - icon: envelope
       text: Email
@@ -18,11 +20,13 @@ about:
       text: Github
       href: https://github.com
 ---
-I am a current PhD student in the NIH Oxford-Cambridge Scholars Program.
+
+Hi! I am a PhD student in the NIH Oxford-Cambridge Scholars Program, a joint program between the National Institutes of Health and the University of Oxford. I am interested in exploring associations between physical activity and disease with respect to reverse causation. This work will leverage data from wrist-worn accelerometers and genomics from large biobank cohort studies, including the *All of Us* Research Program and the UK Biobank.
 
 ## Education
-University of Oxford | Oxford, UK\
-MSc in Global Health Science and Epidemiology | 2023
 
-Harvard College | Cambridge, MA, USA\
-AB in Integrative Biology | 2019
+**University of Oxford** \| Oxford, UK\
+MSc in Global Health Science and Epidemiology \| 2023
+
+**Harvard College** \| Cambridge, MA, USA\
+AB in Integrative Biology \| 2019
