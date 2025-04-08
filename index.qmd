@@ -18,7 +18,7 @@ about:
       href: http://linkedin.com/in/evelynnefulda/
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/efulda
 ---
 
 Hi! I am a PhD student in the NIH Oxford-Cambridge Scholars Program, a joint program between the National Institutes of Health and the University of Oxford. I am interested in exploring associations between physical activity and disease with respect to reverse causation. This work will leverage data from wrist-worn accelerometers and genomics from large biobank cohort studies, including the *All of Us* Research Program and the UK Biobank.
